@@ -3,6 +3,9 @@ module github.com/caeril/frevel/revel
 go 1.15
 
 require (
+	github.com/caeril/frevel/config v0.0.0-20210805165202-98acca7c0706
+	github.com/caeril/frevel/log15 v0.0.0-20210805165202-98acca7c0706
+	github.com/caeril/frevel/pathtree v0.0.0-20210805165202-98acca7c0706
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/go-stack/stack v1.8.0
 	github.com/google/uuid v1.3.0

@@ -4,6 +4,8 @@ go 1.15
 
 require (
 	github.com/agtorre/gocolorize v1.0.0
+	github.com/caeril/frevel/config v0.0.0-20210805165202-98acca7c0706
+	github.com/caeril/frevel/log15 v0.0.0-20210805165202-98acca7c0706
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/mattn/go-colorable v0.1.8

@@ -1,7 +1,14 @@
 github.com/agtorre/gocolorize v1.0.0 h1:TvGQd+fAqWQlDjQxSKe//Y6RaxK+RHpEU9X/zPmHW50=
 github.com/agtorre/gocolorize v1.0.0/go.mod h1:cH6imfTkHVBRJhSOeSeEZhB4zqEYSq0sXuIyehgZMIY=
+github.com/caeril/frevel v0.0.0-20210805165202-98acca7c0706 h1:47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+github.com/caeril/frevel/config v0.0.0-20210805165202-98acca7c0706 h1:LFQkktWsn3fl/ZJMowIsHPZDaWWF12ULag3mG5ap9GM=
+github.com/caeril/frevel/config v0.0.0-20210805165202-98acca7c0706/go.mod h1:gYipAGbo3dsI938GAbtlexPumpLfE66b8R5z8J6is1A=
+github.com/caeril/frevel/log15 v0.0.0-20210805165202-98acca7c0706 h1:G7MzF0ZnPBttbk9piAVhqs7fPLwkrTufd7XGrGeM5fU=
+github.com/caeril/frevel/log15 v0.0.0-20210805165202-98acca7c0706/go.mod h1:XtPDYJEk5zZu1IaqtoacWvbNb3Genw2ZfXA2FYQj65U=
 github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
+github.com/inconshreveable/log15 v0.0.0-20201112154412-8562bdadbbac h1:n1DqxAo4oWPMvH1+v+DLYlMCecgumhhgnxAPdqDIFHI=
+github.com/inconshreveable/log15 v0.0.0-20201112154412-8562bdadbbac/go.mod h1:cOaXtrgN4ScfRrD9Bre7U1thNq5RtJ8ZoP4iXVGRj6o=
 github.com/jessevdk/go-flags v1.5.0 h1:1jKYvbxEjfUl0fmqTCOfonvskHHXMjBySTLW4y9LFvc=
 github.com/jessevdk/go-flags v1.5.0/go.mod h1:Fw0T6WPc1dYxT4mKEZRfG5kJhaTDP9pj1c2EWnYs/m4=
 github.com/mattn/go-colorable v0.1.8 h1:c1ghPdyEDarC70ftn0y+A/Ee++9zz8ljHG1b13eJ0s8=
